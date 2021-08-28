@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CardViewRecyclerViewTutorial</string>
+    <string name="cover">Cover</string>
+    <string name="title_place_holder">Title Place Holder</string>
+    <string name="author_placeholder">Author PlaceHolder</string>
+</resources>
